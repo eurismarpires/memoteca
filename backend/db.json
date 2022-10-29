@@ -1,0 +1,116 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Leva o casaco que vai esfriar",
+      "autoria": "Mãe",
+      "modelo": "modelo1",
+      "id": 1,
+      "favorito": true
+    },
+    {
+      "conteudo": "Não fez mais que sua obrigação",
+      "autoria": "Mãe",
+      "modelo": "modelo2",
+      "id": 2,
+      "favorito": true
+    },
+    {
+      "conteudo": "Se eu for aí e achar, eu esfrego na sua cara!",
+      "autoria": "Mãe",
+      "modelo": "modelo3",
+      "id": 3,
+      "favorito": true
+    },
+    {
+      "conteudo": "Eu vou contar até três",
+      "autoria": "Mãe",
+      "modelo": "modelo1",
+      "id": 4,
+      "favorito": false
+    },
+    {
+      "id": 5,
+      "conteudo": "As pessoas felizes lembram o passado com gratidão, alegram-se com o presente e encaram o futuro sem medo.",
+      "autoria": "Epicuro",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "conteudo": "O prazer de fazer o bem, é maior do que recebê-lo.",
+      "autoria": "Epicuro",
+      "modelo": "modelo2",
+      "id": 6,
+      "favorito": true
+    },
+    {
+      "conteudo": "A amizade e a lealdade residem numa identidade de almas raramente encontrada.",
+      "autoria": "Epicuro",
+      "modelo": "modelo3",
+      "id": 7,
+      "favorito": false
+    },
+    {
+      "conteudo": "O ignorante afirma, o sábio duvida, o sensato reflete.",
+      "autoria": "Aristóteles",
+      "modelo": "modelo2",
+      "id": 8,
+      "favorito": false
+    },
+    {
+      "conteudo": "A vantagem de ter péssima memória é divertir-se muitas vezes com as mesmas coisas boas como se fosse a primeira vez.",
+      "autoria": "Friedrich Nietzsche ",
+      "modelo": "modelo1",
+      "id": 9,
+      "favorito": false
+    },
+    {
+      "conteudo": "Para conhecermos os amigos é necessário passar pelo sucesso e pela desgraça. No sucesso, verificamos a quantidade e, na desgraça, a qualidade.",
+      "autoria": "Confúcio",
+      "modelo": "modelo1",
+      "id": 1,
+      "favorito": false
+    },
+    {
+      "conteudo": "O sábio nunca diz tudo o que pensa, mas pensa sempre tudo o que diz.",
+      "autoria": "Aristóteles",
+      "modelo": "modelo1",
+      "id": 1,
+      "favorito": false
+    },
+    {
+      "conteudo": "Quando vires um homem bom, tenta imitá-lo; quando vires um homem mau, examina-te a ti mesmo.",
+      "autoria": "Confúcio",
+      "modelo": "modelo2",
+      "id": 1,
+      "favorito": false
+    },
+    {
+      "conteudo": "Não há ninguém, mesmo sem cultura, que não se torne poeta quando o amor toma conta dele.",
+      "autoria": "Platão",
+      "modelo": "modelo3",
+      "id": 1,
+      "favorito": false
+    },
+    {
+      "conteudo": "O que não provoca minha morte faz com que eu fique mais forte.",
+      "autoria": "Friedrich Nietzsche ",
+      "modelo": "modelo3",
+      "id": 1,
+      "favorito": false
+    },
+    {
+      "conteudo": "Não espere por uma crise para descobrir o que é importante em sua vida.",
+      "autoria": "Platão",
+      "modelo": "modelo3",
+      "id": 1,
+      "favorito": false
+    },
+    {
+      "conteudo": "As pessoas costumam dizer que a motivação não dura sempre. Bem, nem o efeito do banho, por isso recomenda-se diariamente.",
+      "autoria": "Zig Ziglar",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 10
+    }
+  ]
+}
