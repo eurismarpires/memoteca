@@ -109,8 +109,15 @@
       "conteudo": "As pessoas costumam dizer que a motivação não dura sempre. Bem, nem o efeito do banho, por isso recomenda-se diariamente.",
       "autoria": "Zig Ziglar",
       "modelo": "modelo3",
-      "favorito": true,
+      "favorito": false,
       "id": 10
+    },
+    {
+      "conteudo": "Sua tarefa é descobrir o seu trabalho e, então, com todo o coração, dedicar-se a ele.",
+      "autoria": "Buda",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 11
     }
   ]
 }
